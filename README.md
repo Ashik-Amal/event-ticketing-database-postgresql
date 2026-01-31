@@ -50,5 +50,4 @@ Python scripts were developed to:
   
 
 
-3. Run queries from `transactions.sql`
 
